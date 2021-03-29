@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [
+    <!ENTITY appname "Country Search">
+    ]>
+
+<resources>
+    <string name="app_name" translatable="false">&appname;</string>
+
+    <!-- Generics -->
+    <string name="hint_ok">OK</string>
+    <string name="hint_yes">Yes</string>
+    <string name="hint_no">No</string>
+    <string name="hint_done">Done</string>
+    <string name="hint_cancel">Cancel</string>
+    <string name="hint_search">Search</string>
+    <string name="hint_back">Navigate back</string>
+    <string name="hint_try_again">Try again</string>
+
+    <string name="generic_log_error">Error in %1$s (%2$s)</string>
+
+    <string name="generic_msg_error">Oops! Something went wrong. Please try again.</string>
+
+    <!-- MainActivity -->
+    <string name="main_title">Rest-Api Country Display </string>
+
+    <string name="main_search_hint">Search for countries</string>
+    <string name="main_search_no_results">Oops! There are no results for the keywords you searched.</string>
+
+    <string name="main_region_all">All regions</string>
+    <string name="main_region_africa">Africa</string>
+    <string name="main_region_americas">Americas</string>
+    <string name="main_region_asia">Asia</string>
+    <string name="main_region_europe">Europe</string>
+    <string name="main_region_oceania">Oceania</string>
+
+    <!-- CountryDetailActivity -->
+    <string name="country_detail_capital">Capital</string>
+    <string name="country_detail_subregion">Subregion</string>
+    <string name="country_detail_population">Population</string>
+    <string name="country_detail_native_name">Native Name</string>
+    <string name="country_detail_demonym">Demonym</string>
+
+    <string name="country_detail_calling_code">Calling code</string>
+    <string name="country_detail_currencies">Currencies</string>
+    <string name="country_detail_languages">Languages</string>
+    <string name="country_detail_timezones">Timezones</string>
+    <string name="country_detail_borders">Borders</string>
+</resources>
