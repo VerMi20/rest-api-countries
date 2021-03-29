@@ -24,10 +24,12 @@ The Source folder consists of 3 components:
 ![](readme_assets/main.png)
 
 **Country detail Page:**
+
 ![](readme_assets/detail.png)
 
 **Country detail Page(Flag-zoom):**
-![](readme_assets/deatail_flag.png)
+
+![](readme_assets/detail_flag.png)
 
 Preview
 =======
